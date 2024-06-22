@@ -12,7 +12,7 @@ I develop a custom exploits for public CVEs
 - API penetration testing.
 - Android applications penetration testing.
 - Active Directory penetration testing.
-- Automation Scripting.
+- Python Automation Scripting.
 .
 ### Certifications
 [eWPTXv2](https://verified.elearnsecurity.com/certificates/d4f2e8b2-295f-4bd7-b2a8-389f1b19cffb)
